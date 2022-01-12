@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/big\ bryce.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:Book Antiqua;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+#balltext{
+    color: cornsilk;
+}
+
